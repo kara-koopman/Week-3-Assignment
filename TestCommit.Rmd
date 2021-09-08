@@ -11,7 +11,4 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## R Markdown
 
-I'm learning githuf
-
-
-adf
+I'm learning github
